@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-e673825dd7e3c058d4f757c5bdc145b3 CMakeFiles/DataSendWidget_autogen
-d1b7bdd361e44c9cafb7e5b410c55c84 ui_datasendwidget.h

@@ -1,4 +1,0 @@
-/home/anastasia/PROG/Tasks/Qt_thread_2/Sender/build-widget-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/DataSendWidget.dir
-/home/anastasia/PROG/Tasks/Qt_thread_2/Sender/build-widget-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/anastasia/PROG/Tasks/Qt_thread_2/Sender/build-widget-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/anastasia/PROG/Tasks/Qt_thread_2/Sender/build-widget-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/DataSendWidget_autogen.dir
